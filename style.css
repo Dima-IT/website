@@ -1,0 +1,116 @@
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+}
+
+h2 {
+    font-family: Georgia, serif;
+    font-size: 150%;  
+}
+
+h3 {
+    font-size: 2em;        
+}
+
+p {
+    font-size: 1rem;       
+}
+
+img {
+    width: 30%;            
+    max-width: 150px;      
+}
+
+.hobby {
+    color: green;
+    font-family: Georgia, serif;
+}
+
+#main-title {
+    color: purple;
+    font-family: Verdana, sans-serif;
+}
+
+.highlight {
+    color: green;
+    font-weight: bold;
+}
+
+.header {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid darkblue;
+}
+
+.main {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid gray;
+}
+
+.footer {
+    background-color: lightgreen;
+    padding: 20px;
+    margin: 20px;
+    border: 3px solid darkgreen;
+}
+
+.position-example {
+    position: relative;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.static-box {
+    position: static;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.relative-box {
+    position: relative;
+    left: 30px;
+    top: 10px;
+    background-color: lightgreen;
+    padding: 10px;
+}
+
+.absolute-box {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    background-color: lightcoral;
+    padding: 10px;
+}
+
+.float-container {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.box-left {
+    float: left;
+    width: 40%;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+.box-right {
+    float: right;
+    width: 40%;
+    padding: 20px;
+    background-color: lightgreen;
+}
+
+.clear-text {
+    clear: both;
+    padding: 20px;
+    background-color: lightgray;
+}
