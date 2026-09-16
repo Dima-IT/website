@@ -10,6 +10,9 @@ University: Astana IT University
 This project is my first personal website created as part of the HTML and CSS Basics assignment.
 
 The website contains information about me, my hobbies, favorite websites, images, a weekly schedule, and a contact form.
+<img width="1920" height="956" alt="{396F65E0-697E-4427-ABF6-59D31CC7A103}" src="https://github.com/user-attachments/assets/9caaee4c-463f-447b-abd9-34d4bdd8638e" />
+
+<img width="1920" height="862" alt="{E8068566-0467-44C7-8DB6-C9CFB731A605}" src="https://github.com/user-attachments/assets/b9375cb7-c75d-4b66-a3ae-887eff00503b" />
 
 
 
