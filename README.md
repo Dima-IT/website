@@ -107,7 +107,7 @@ Created two boxes using `float: left` and `float: right`. Used `clear: both` to 
 
 ### Step 21 — Publish the Website
 
-Published the website using GitHub pages
+Published the website using GitHub pages  https://dima-it.github.io/website/
 
 
 
